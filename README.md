@@ -11,8 +11,11 @@ A transformer-based **text classification** and **language modeling** project, i
 - Transformer **decoder** for language modeling  
 - Custom **attention mechanisms** and **positional encodings**  
 
-## 🏗️ Installation & Execution  
+## 🏗️ Installation   
 ```sh
-pip install -r requirements.txt  
+pip install -r requirements.txt
+```
+
+## Check Transformer.ipynb for the code
 python main.py --mode classification  # Run classifier  
 python main.py --mode language_model  # Train language model  
