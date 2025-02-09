@@ -17,5 +17,3 @@ pip install -r requirements.txt
 ```
 
 ## Check Transformer.ipynb for the code
-python main.py --mode classification  # Run classifier  
-python main.py --mode language_model  # Train language model  
